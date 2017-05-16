@@ -1,0 +1,11 @@
+Package: alevagl
+Priority: optional
+Version: 2.0.0
+Architecture: all
+Section: libs
+Maintainer: Yuri David Santos <ysantos@outlook.com>
+Installed-Size: 542
+Depends: libsdl1.2debian (>= 1.2.10-1), libsdl-image1.2 (>= 1.2.10), libsdl-mixer1.2 (>= 1.2.6), libsdl-ttf2.0-0, libsdl-net1.2
+Homepage: http://github.com/yds12/agl2
+Description: Aleva Game Library
+ AGL2 is a simple game library design to support game development in C++, based on SDL.

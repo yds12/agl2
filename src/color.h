@@ -1,0 +1,83 @@
+#ifndef _AGL_COLOR_H
+#define _AGL_COLOR_H
+
+#include "agl/support.h"
+
+const AGL::Color AGL_COLOR_AQUA = {0, 255, 255};
+const AGL::Color AGL_COLOR_AQUAMARINE = {127, 255, 212};
+const AGL::Color AGL_COLOR_BEIGE = {245, 245, 220};
+const AGL::Color AGL_COLOR_BISQUE = {255, 228, 196};
+const AGL::Color AGL_COLOR_BLACK = {0, 0, 0};
+const AGL::Color AGL_COLOR_BLUE = {0, 0, 255};
+const AGL::Color AGL_COLOR_BLUEVIOLET = {138, 43, 226};
+const AGL::Color AGL_COLOR_BROWN = {165, 42, 42};
+const AGL::Color AGL_COLOR_CARROT = {237, 145, 33};
+const AGL::Color AGL_COLOR_CHOCOLATE = {210, 105, 30};
+const AGL::Color AGL_COLOR_COBALT = {61, 89, 171};
+const AGL::Color AGL_COLOR_COBALTGREEN = {61, 145, 64};
+const AGL::Color AGL_COLOR_CORAL = {255, 127, 80};
+const AGL::Color AGL_COLOR_CORNFLOWERBLUE = {100, 149, 237};
+const AGL::Color AGL_COLOR_CORNSILK = {255, 248, 220};
+const AGL::Color AGL_COLOR_CRIMSON = {220, 20, 60};
+const AGL::Color AGL_COLOR_CYAN = {0, 255, 255};
+const AGL::Color AGL_COLOR_DARKBLUE = {0, 0, 139};
+const AGL::Color AGL_COLOR_DARKGRAY = {169, 169, 169};
+const AGL::Color AGL_COLOR_DARKGREEN = {0, 100, 0};
+const AGL::Color AGL_COLOR_DARKMAGENTA = {139, 0, 139};
+const AGL::Color AGL_COLOR_DARKORANGE = {255, 140, 0};
+const AGL::Color AGL_COLOR_DARKRED = {139, 0, 0};
+const AGL::Color AGL_COLOR_DARKVIOLET = {148, 0, 211};
+const AGL::Color AGL_COLOR_DIMGRAY = {105, 105, 105};
+const AGL::Color AGL_COLOR_EMERALDGREEN = {0, 201, 87};
+const AGL::Color AGL_COLOR_FLESH = {155, 125, 64};
+const AGL::Color AGL_COLOR_FORESTGREEN = {34, 139, 34};
+const AGL::Color AGL_COLOR_FUCHSIA = {255, 0, 255};
+const AGL::Color AGL_COLOR_GAINSBORO = {220, 220, 220};
+const AGL::Color AGL_COLOR_GHOSTWHITE = {248, 248, 255};
+const AGL::Color AGL_COLOR_GOLD = {255, 215, 0};
+const AGL::Color AGL_COLOR_GOLD3 = {205, 173, 0};
+const AGL::Color AGL_COLOR_GOLD4 = {139, 117, 0};
+const AGL::Color AGL_COLOR_GOLDENROD = {218, 165, 32};
+const AGL::Color AGL_COLOR_GRAY = {128, 128, 128};
+const AGL::Color AGL_COLOR_GREEN = {0, 128, 0};
+const AGL::Color AGL_COLOR_GREEN1 = {0, 255, 0};
+const AGL::Color AGL_COLOR_HOTPINK = {255, 105, 180};
+const AGL::Color AGL_COLOR_INDIANRED = {176, 23, 31};
+const AGL::Color AGL_COLOR_INDIGO = {75, 0, 130};
+const AGL::Color AGL_COLOR_LAWNGREEN = {124, 252, 0};
+const AGL::Color AGL_COLOR_LIGHTBLUE = {173, 216, 230};
+const AGL::Color AGL_COLOR_LIGHTGRAY = {211, 211, 211};
+const AGL::Color AGL_COLOR_LIGHTGREEN = {144, 238, 144};
+const AGL::Color AGL_COLOR_LIGHTPINK4 = {139, 95, 101};
+const AGL::Color AGL_COLOR_LIGHTSTEELBLUE = {176, 196, 222};
+const AGL::Color AGL_COLOR_LIME = {0, 255, 0};
+const AGL::Color AGL_COLOR_LIMEGREEN = {50, 205, 50};
+const AGL::Color AGL_COLOR_MAGENTA = {255, 0, 255};
+const AGL::Color AGL_COLOR_MAROON = {128, 0, 0};
+const AGL::Color AGL_COLOR_MEDIUMBLUE = {0, 0, 205};
+const AGL::Color AGL_COLOR_MIDNIGHTBLUE = {25, 25, 112};
+const AGL::Color AGL_COLOR_MINT = {189, 252, 201};
+const AGL::Color AGL_COLOR_NAVY = {0, 0, 128};
+const AGL::Color AGL_COLOR_OLIVE = {128, 128, 0};
+const AGL::Color AGL_COLOR_ORANGE = {255, 165, 0};
+const AGL::Color AGL_COLOR_ORCHID = {218, 112, 214};
+const AGL::Color AGL_COLOR_PALEGREEN = {152, 251, 152};
+const AGL::Color AGL_COLOR_PEACOCK = {51, 161, 201};
+const AGL::Color AGL_COLOR_PINK = {255, 192, 203};
+const AGL::Color AGL_COLOR_PURPLE = {128, 0, 128};
+const AGL::Color AGL_COLOR_RED = {255, 0, 0};
+const AGL::Color AGL_COLOR_ROYALBLUE = {65, 105, 225};
+const AGL::Color AGL_COLOR_SALMON = {250, 128, 114};
+const AGL::Color AGL_COLOR_SEPIA = {94, 38, 18};
+const AGL::Color AGL_COLOR_SILVER = {192, 192, 192};
+const AGL::Color AGL_COLOR_SLATEGRAY = {112, 128, 144};
+const AGL::Color AGL_COLOR_SNOW = {255, 250, 250};
+const AGL::Color AGL_COLOR_SPRINGGREEN = {0, 255, 127};
+const AGL::Color AGL_COLOR_TEAL = {0, 128, 128};
+const AGL::Color AGL_COLOR_TOMATO = {255, 99, 71};
+const AGL::Color AGL_COLOR_TURQUOISE = {64, 224, 208};
+const AGL::Color AGL_COLOR_WHEAT = {245, 222, 179};
+const AGL::Color AGL_COLOR_WHITE = {255, 255, 255};
+const AGL::Color AGL_COLOR_YELLOW = {255, 255, 0};
+
+#endif

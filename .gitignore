@@ -1,0 +1,9 @@
+src/*.o
+lib/*.so
+deb/usr/*
+src/test
+src/*.cbp
+src/*.layout
+src/*.o
+src/doxyfile
+src/test-*.cpp
