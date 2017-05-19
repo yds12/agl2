@@ -4,10 +4,10 @@ AGL2, the successor of [AGL](http://github.com/yds12/agl), is a game library des
 
 ## Compiling and Installing AGL
 
-First, install the dependencies (SDL development files): the base SDL library (the first version, not SDL 2), SDL mixer, SDL ttf, SDL image and SDL net. In Ubuntu 16.04, for example, you can type this:
+First, install the dependencies (SDL development files): the base SDL library (the first version, not SDL 2), SDL mixer, SDL ttf, SDL image and SDL net. For the compilation, it might be necessary to install the C++ compiler **g++**. In Ubuntu 16.04, for example, you can type this:
 
 ```
-sudo apt-get install libsdl1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-image1.2-dev libsdl-net1.2-dev
+sudo apt-get install libsdl1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-image1.2-dev libsdl-net1.2-dev g++
 ```
 
 Now installing AGL is easy. Just type the following in a terminal (from the `src` directory):
